@@ -1,0 +1,8 @@
+dev\hikarii\socialPlugin\IgnoreCommand.class
+dev\hikarii\socialPlugin\PlayerListener.class
+dev\hikarii\socialPlugin\SocialPlugin.class
+dev\hikarii\socialPlugin\MsgCommand.class
+dev\hikarii\socialPlugin\UnignoreCommand.class
+dev\hikarii\socialPlugin\AfkCommand.class
+dev\hikarii\socialPlugin\ReplyCommand.class
+dev\hikarii\socialPlugin\SocialManager.class

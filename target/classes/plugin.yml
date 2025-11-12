@@ -1,0 +1,31 @@
+name: SocialPlugin
+version: 1.0.0
+main: dev.hikarii.socialPlugin.SocialPlugin
+api-version: 1.21
+author: hikarii
+website: https://github.com/hikarii-dev
+description: Social system with private messages, ignoring players, and AFK mode
+
+commands:
+  msg:
+    description: Send a private message to a player
+    usage: /msg <игрок> <сообщение>
+    aliases: [m, tell, whisper, w]
+
+  reply:
+    description: Reply to the last received message
+    usage: /reply <сообщение>
+    aliases: [r]
+
+  ignore:
+    description: Ignore a player
+    usage: /ignore <игрок>
+
+  unignore:
+    description: Unignore a player
+    usage: /unignore <игрок>
+
+  afk:
+    description: Toggle AFK mode
+    usage: /afk
+    aliases: [away]

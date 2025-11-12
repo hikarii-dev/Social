@@ -1,0 +1,9 @@
+# SocialPlugin Configuration
+# The list of ignored players will be automatically saved here
+
+# Ignore storage structure:
+# ignore:
+# <Player UUID>:
+# - <UUID of ignored player 1>
+# - <UUID of ignored player 2>
+# - ...
